@@ -1,0 +1,24 @@
+{
+  "name": "random-uniq",
+  "version": "1.0.0",
+  "description": "Generates random integers that are unique successively",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "random",
+    "rand",
+    "unique",
+    "uniq",
+    "integer"
+  ],
+  "author": "Karlo Espiritu <karloespiritu@gmail.com> (http://karloespiritu.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
