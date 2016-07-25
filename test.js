@@ -4,10 +4,6 @@
 const test = require('tape');
 const randomUniq = require('./index');
 
-const x = randomUniq(0,5)
-console.log(x(), x(), x(), x())
-console.log(x(), x(), x(), x())
-
 
 test('should generate a different number from previous result', function(t) {
     t.plan(2)

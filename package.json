@@ -1,6 +1,6 @@
 {
   "name": "random-uniq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates random integers that are unique successively",
   "main": "index.js",
   "scripts": {
@@ -19,10 +19,19 @@
     "url": "http://karloespiritu.com"
   },
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^3.1.1"
+  "bugs": {
+    "url": "https://github.com/karloespiritu/random-uniq/issues"
+  },
+  "homepage": "https://github.com/karloespiritu/random-uniq#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karloespiritu/random-uniq.git"
   },
   "devDependencies": {
+    "eslint": "^3.1.1",
     "tape": "^4.6.0"
+  },
+  "engines": {
+      "node": ">= 5.6.0"
   }
 }

@@ -1,4 +1,4 @@
-# random-uniq
+# random-uniq [![Build Status](https://travis-ci.org/karloespiritu/random-uniq.svg?branch=master)](https://travis-ci.org/karloespiritu/random-uniq)
 
 Generates random integers that are unique successively. Useful for generating random items that you don't want to appear consecutively after each call.
 
