@@ -13,7 +13,11 @@
     "uniq",
     "integer"
   ],
-  "author": "Karlo Espiritu <karloespiritu@gmail.com> (http://karloespiritu.com/)",
+  "author": {
+    "name": "Karlo Espiritu",
+    "email": "karloespiritu@gmail.com",
+    "url": "http://karloespiritu.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "eslint": "^3.1.1"
